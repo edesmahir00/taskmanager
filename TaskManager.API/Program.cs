@@ -14,7 +14,12 @@ builder.Services.AddControllers();
 
 // Swagger setup
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+
+// Add Swagger 
+builder.Services.AddSwaggerGen(options =>
+{
+    options.EnableAnnotations(); // Swagger açýklamalarýný etkinleþtir
+});
 
 // Add AutoMapper
 builder.Services.AddAutoMapper(typeof(TaskMappingProfile));
