@@ -1,3 +1,4 @@
+using TaskStatus = TaskManager.Core.Enums.TaskStatus;
 namespace TaskManager.Core.Entities
 {
     public class Task

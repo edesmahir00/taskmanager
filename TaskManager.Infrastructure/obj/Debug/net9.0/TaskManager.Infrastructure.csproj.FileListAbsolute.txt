@@ -13,3 +13,19 @@ C:\Users\pc\Desktop\Programlama\Projelerim\Github\TaskManager\TaskManager.Infras
 C:\Users\pc\Desktop\Programlama\Projelerim\Github\TaskManager\TaskManager.Infrastructure\obj\Debug\net9.0\refint\TaskManager.Infrastructure.dll
 C:\Users\pc\Desktop\Programlama\Projelerim\Github\TaskManager\TaskManager.Infrastructure\obj\Debug\net9.0\TaskManager.Infrastructure.pdb
 C:\Users\pc\Desktop\Programlama\Projelerim\Github\TaskManager\TaskManager.Infrastructure\obj\Debug\net9.0\ref\TaskManager.Infrastructure.dll
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Infrastructure\bin\Debug\net9.0\TaskManager.Infrastructure.deps.json
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Infrastructure\bin\Debug\net9.0\TaskManager.Infrastructure.dll
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Infrastructure\bin\Debug\net9.0\TaskManager.Infrastructure.pdb
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Infrastructure\bin\Debug\net9.0\TaskManager.Core.dll
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Infrastructure\bin\Debug\net9.0\TaskManager.Core.pdb
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Infrastructure\obj\Debug\net9.0\TaskManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Infrastructure\obj\Debug\net9.0\TaskManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Infrastructure\obj\Debug\net9.0\TaskManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Infrastructure\obj\Debug\net9.0\TaskManager.Infrastructure.AssemblyInfo.cs
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Infrastructure\obj\Debug\net9.0\TaskManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Infrastructure\obj\Debug\net9.0\TaskManager.Infrastructure.sourcelink.json
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Infrastructure\obj\Debug\net9.0\TaskMana.DD0CDC6B.Up2Date
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Infrastructure\obj\Debug\net9.0\TaskManager.Infrastructure.dll
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Infrastructure\obj\Debug\net9.0\refint\TaskManager.Infrastructure.dll
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Infrastructure\obj\Debug\net9.0\TaskManager.Infrastructure.pdb
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Infrastructure\obj\Debug\net9.0\ref\TaskManager.Infrastructure.dll

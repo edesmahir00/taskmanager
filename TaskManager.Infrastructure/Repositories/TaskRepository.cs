@@ -31,7 +31,7 @@ namespace TaskManager.Infrastructure.Repositories
         {
             return await _context.Tasks
                 .Skip((page - 1) * pageSize)
-                .Take(pageSize)
+                //.Take(pageSize).Where(x=>x.Status!=TaskStatus.Passive)
                 .ToListAsync();
         }
 
@@ -46,7 +46,7 @@ namespace TaskManager.Infrastructure.Repositories
             var task = await _context.Tasks.FindAsync(id);
             if (task != null)
             {
-                task.Status = (System.Threading.Tasks.TaskStatus)TaskStatus.Passive; // Pasif yapýyoruz
+                task.Status = (TaskManager.Core.Enums.TaskStatus)TaskStatus.Passive; // Pasif yapýyoruz
                 _context.Tasks.Update(task);
                 await _context.SaveChangesAsync();
             }

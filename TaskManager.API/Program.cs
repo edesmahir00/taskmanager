@@ -21,6 +21,18 @@ builder.Services.AddSwaggerGen(options =>
     options.EnableAnnotations(); // Swagger açýklamalarýný etkinleþtir
 });
 
+// CORS ekleme
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowReactApp",
+        policy =>
+        {
+            policy.WithOrigins("http://localhost:3000") // React uygulamanýzýn URL'si
+                  .AllowAnyMethod()
+                  .AllowAnyHeader();
+        });
+});
+
 // Add AutoMapper
 builder.Services.AddAutoMapper(typeof(TaskMappingProfile));
 
@@ -36,6 +48,9 @@ builder.Services.AddScoped<ITaskService, TaskService>();
 
 var app = builder.Build();
 
+// CORS middleware kullanýmý
+app.UseCors("AllowReactApp");
+app.UseSwagger();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
