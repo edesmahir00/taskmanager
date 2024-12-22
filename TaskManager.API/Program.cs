@@ -9,57 +9,45 @@ using TaskManager.Application.Mappings;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 builder.Services.AddControllers();
-
-// Swagger setup
 builder.Services.AddEndpointsApiExplorer();
-
-// Add Swagger 
 builder.Services.AddSwaggerGen(options =>
 {
-    options.EnableAnnotations(); // Swagger açýklamalarýný etkinleþtir
+    options.EnableAnnotations(); 
+    options.CustomSchemaIds(type => type.ToString());
 });
 
-// CORS ekleme
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowReactApp",
-        policy =>
-        {
-            policy.WithOrigins("http://localhost:3000") // React uygulamanýzýn URL'si
-                  .AllowAnyMethod()
-                  .AllowAnyHeader();
-        });
+    options.AddPolicy("AllowMultipleOrigins", builder =>
+            builder.WithOrigins("http://localhost:7000", "http://localhost:7001", "http://localhost:3000", "http://x:8081")  
+                   .AllowAnyHeader()   
+                   .AllowAnyMethod()   
+                   .AllowCredentials());  
 });
 
-// Add AutoMapper
 builder.Services.AddAutoMapper(typeof(TaskMappingProfile));
-
-// Add DbContext
 builder.Services.AddDbContext<TaskManagerDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
-// Add Repositories
 builder.Services.AddScoped<ITaskRepository, TaskRepository>();
-
-// Add Services
 builder.Services.AddScoped<ITaskService, TaskService>();
 
 var app = builder.Build();
 
-// CORS middleware kullanýmý
-app.UseCors("AllowReactApp");
+app.UseCors("AllowMultipleOrigins");
 app.UseSwagger();
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+
+if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(c =>
+    {
+        c.RoutePrefix = "swagger-api-docs";
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+    });
 }
 
+app.UseDeveloperExceptionPage();
 app.UseHttpsRedirection();
-
 app.MapControllers();
-
 app.Run();

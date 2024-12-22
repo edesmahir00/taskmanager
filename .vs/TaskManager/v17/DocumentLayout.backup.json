@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Programlama\\Projelerim\\Github\\Push Yap\u0131ld\u0131\\TaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01970787-CF7F-472A-873A-1D7C11967C49}|TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|c:\\users\\pc\\desktop\\programlama\\projelerim\\github\\push yap\u0131ld\u0131\\taskmanager\\taskmanager.infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01970787-CF7F-472A-873A-1D7C11967C49}|TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|solutionrelative:taskmanager.infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8803AEBC-5E51-45FC-B4B2-1CDB8BFFF0DB}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\pc\\desktop\\programlama\\projelerim\\github\\push yap\u0131ld\u0131\\taskmanager\\taskmanager.core\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8803AEBC-5E51-45FC-B4B2-1CDB8BFFF0DB}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35BA878-AA9C-4A0D-AFA5-4DAE9C7BF50A}|TaskManager.Application\\TaskManager.Application.csproj|c:\\users\\pc\\desktop\\programlama\\projelerim\\github\\push yap\u0131ld\u0131\\taskmanager\\taskmanager.application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35BA878-AA9C-4A0D-AFA5-4DAE9C7BF50A}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A307C44F-C851-4BBD-83F0-CD85FDAD764B}|TaskManager.API\\TaskManager.API.csproj|c:\\users\\pc\\desktop\\programlama\\projelerim\\github\\push yap\u0131ld\u0131\\taskmanager\\taskmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A307C44F-C851-4BBD-83F0-CD85FDAD764B}|TaskManager.API\\TaskManager.API.csproj|solutionrelative:taskmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A307C44F-C851-4BBD-83F0-CD85FDAD764B}|TaskManager.API\\TaskManager.API.csproj|c:\\users\\pc\\desktop\\programlama\\projelerim\\github\\push yap\u0131ld\u0131\\taskmanager\\taskmanager.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A307C44F-C851-4BBD-83F0-CD85FDAD764B}|TaskManager.API\\TaskManager.API.csproj|solutionrelative:taskmanager.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8803AEBC-5E51-45FC-B4B2-1CDB8BFFF0DB}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\pc\\desktop\\programlama\\projelerim\\github\\push yap\u0131ld\u0131\\taskmanager\\taskmanager.core\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8803AEBC-5E51-45FC-B4B2-1CDB8BFFF0DB}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,67 +22,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaskService.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Programlama\\Projelerim\\Github\\Push Yap\u0131ld\u0131\\TaskManager\\TaskManager.Application\\Services\\TaskService.cs",
-              "RelativeDocumentMoniker": "TaskManager.Application\\Services\\TaskService.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\Programlama\\Projelerim\\Github\\Push Yap\u0131ld\u0131\\TaskManager\\TaskManager.Application\\Services\\TaskService.cs",
-              "RelativeToolTip": "TaskManager.Application\\Services\\TaskService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:37:32.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Programlama\\Projelerim\\Github\\Push Yap\u0131ld\u0131\\TaskManager\\TaskManager.Infrastructure\\Repositories\\TaskRepository.cs",
-              "RelativeDocumentMoniker": "TaskManager.Infrastructure\\Repositories\\TaskRepository.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\Programlama\\Projelerim\\Github\\Push Yap\u0131ld\u0131\\TaskManager\\TaskManager.Infrastructure\\Repositories\\TaskRepository.cs",
-              "RelativeToolTip": "TaskManager.Infrastructure\\Repositories\\TaskRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:26:00.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TaskStatus.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Programlama\\Projelerim\\Github\\Push Yap\u0131ld\u0131\\TaskManager\\TaskManager.Core\\Enums\\TaskStatus.cs",
-              "RelativeDocumentMoniker": "TaskManager.Core\\Enums\\TaskStatus.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\Programlama\\Projelerim\\Github\\Push Yap\u0131ld\u0131\\TaskManager\\TaskManager.Core\\Enums\\TaskStatus.cs",
-              "RelativeToolTip": "TaskManager.Core\\Enums\\TaskStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:34:10.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Programlama\\Projelerim\\Github\\Push Yap\u0131ld\u0131\\TaskManager\\TaskManager.Core\\Entities\\Task.cs",
-              "RelativeDocumentMoniker": "TaskManager.Core\\Entities\\Task.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\Programlama\\Projelerim\\Github\\Push Yap\u0131ld\u0131\\TaskManager\\TaskManager.Core\\Entities\\Task.cs",
-              "RelativeToolTip": "TaskManager.Core\\Entities\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:27:34.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "TaskController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Programlama\\Projelerim\\Github\\Push Yap\u0131ld\u0131\\TaskManager\\TaskManager.API\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "TaskManager.API\\Controllers\\TaskController.cs",
               "ToolTip": "C:\\Users\\pc\\Desktop\\Programlama\\Projelerim\\Github\\Push Yap\u0131ld\u0131\\TaskManager\\TaskManager.API\\Controllers\\TaskController.cs",
               "RelativeToolTip": "TaskManager.API\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:21:33.339Z",
+              "WhenOpened": "2024-12-22T01:44:35.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Programlama\\Projelerim\\Github\\Push Yap\u0131ld\u0131\\TaskManager\\TaskManager.API\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManager.API\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Programlama\\Projelerim\\Github\\Push Yap\u0131ld\u0131\\TaskManager\\TaskManager.API\\Program.cs",
+              "RelativeToolTip": "TaskManager.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:30:08.797Z",
               "EditorCaption": ""
             }
           ]

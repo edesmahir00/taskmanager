@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Core\bin\Release\net9.0\TaskManager.Core.deps.json
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Core\bin\Release\net9.0\TaskManager.Core.dll
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Core\bin\Release\net9.0\TaskManager.Core.pdb
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Core\obj\Release\net9.0\TaskManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Core\obj\Release\net9.0\TaskManager.Core.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Core\obj\Release\net9.0\TaskManager.Core.AssemblyInfo.cs
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Core\obj\Release\net9.0\TaskManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Core\obj\Release\net9.0\TaskManager.Core.sourcelink.json
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Core\obj\Release\net9.0\TaskManager.Core.dll
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Core\obj\Release\net9.0\refint\TaskManager.Core.dll
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Core\obj\Release\net9.0\TaskManager.Core.pdb
+C:\Users\pc\Desktop\Programlama\Projelerim\Github\Push Yapıldı\TaskManager\TaskManager.Core\obj\Release\net9.0\ref\TaskManager.Core.dll
